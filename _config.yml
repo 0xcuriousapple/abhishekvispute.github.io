@@ -2,6 +2,7 @@ theme: jekyll-theme-architect
 author: Abhishek Vispute
 email: abhivispute33@gmail.com
 title: Abhishek Vispute
+description: "Github page which lists Major projects of Abhishek Vispute, VJTI" 
 keywords: "Abhishek Vispute, GitHub, git, projects, vjti"
 google:
   tracking: true       # boolean, true - turn google tracking on, false - turn google tracking off
