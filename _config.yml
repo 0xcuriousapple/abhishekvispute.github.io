@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+author: Abhishek Vispute
+email: abhivispute33@gmail.com
+google:
+  tracking: true       # boolean, true - turn google tracking on, false - turn google tracking off
+  tracking_id: ""       # your google tracking id
+  site_verification: "35znUrvR4YExdysvKnRDNYHQEOvqNC69kUF20QqVsR8" # your google site verification
+  
+gems:
+- jekyll-paginate
+- jekyll-gist
