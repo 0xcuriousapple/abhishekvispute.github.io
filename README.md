@@ -1,6 +1,5 @@
-## Abhishek Vispute
+## Abhishek Vispute&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/abhishek-vispute/)  [GitHub](https://github.com/abhishekvispute)
 ### B.tech from Veermata Jijabai Technological Institute (VJTI), Mumbai
-### [LinkedIn](https://www.linkedin.com/in/abhishek-vispute/)  [Git](https://github.com/abhishekvispute)
 ## Projects
 ### [Blockchain-Powered-Procurement-System](https://abhishekvispute.github.io/Blockchain-Powered-Procurement-System/)
 Supply chain management and Procurement through tenders backed by Blockchain. HTML/CSS/JS + Web3.js +Ethereum Network.  
