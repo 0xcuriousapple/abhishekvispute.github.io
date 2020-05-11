@@ -1,6 +1,4 @@
-## Abhishek Vispute
-### B.tech from Veermata Jijabai Technological Institute (VJTI), Mumbai
-## Projects
+## Projects on GitHub
 ### [Blockchain-Powered-Procurement-System](https://abhishekvispute.github.io/Blockchain-Powered-Procurement-System/)
 Supply chain management and Procurement through tenders backed by Blockchain. HTML/CSS/JS + Web3.js +Ethereum Network.  
 [Repo](https://github.com/abhishekvispute/Blockchain-Powered-Procurement-System)<br/>
@@ -15,4 +13,11 @@ Realtime dashboard using  SVG, SCSS for animation, Express as server and socket.
 [Repo](https://github.com/abhishekvispute/Dashboard)<br/>
 [Deployed on Heroku](https://bkdashboard.herokuapp.com/)
 
+## About me
+Abhishek Vispute,<br />
+B.tech from Veermata Jijabai Technological Institute (VJTI), Mumbai.<br />
+Connect me on [LinkedIn](https://www.linkedin.com/in/abhishek-vispute/)<br />
+See all of my projects on [Git](https://github.com/abhishekvispute/)
+
+## Thank You
 
