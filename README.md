@@ -1,5 +1,6 @@
-## Projects on GitHub 
-### This site has been deprecated from April-2020, please visit https://github.com/abhishekvispute directly for my latest projects
+
+## This site has been deprecated from April-2020, please visit [My Github Profile](https://github.com/abhishekvispute) directly for my latest projects
+
 ### [Blockchain-Powered-Procurement-System](https://abhishekvispute.github.io/Blockchain-Powered-Procurement-System/)
 Supply chain management and Procurement through tenders backed by Blockchain. HTML/CSS/JS + Web3.js +Ethereum Network.  
 [Repo](https://github.com/abhishekvispute/Blockchain-Powered-Procurement-System)<br/>
